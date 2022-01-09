@@ -2,9 +2,11 @@
 Blockchain Security and Threat Modeling blog in progress: [Cryptonite-Security](https://www.cryptonite-security.com/)
 
 # Upcoming weeks and months of blogging will cover:
-Blockchain
-Definition and how it’s used
-Confusion around it’s existence
+## Blockchain
+
+### Definition and how it’s used
+
+### Confusion around it’s existence
 Best way to explain it
 Is it needed? Why does it exist?
 Is it a fad, bubble? Why the craze?
