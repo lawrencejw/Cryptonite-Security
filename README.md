@@ -31,15 +31,13 @@
 ### Approach and breakdown
 ### Physical - what use cases apply to this (cryptocurrency wallets etc)
 ### Development - existing threats and what may come next
-### What tools are being used
-### Vulnerability scanning
-### Monitoring tools
+### What tools are being used (Vulnerability scanning, Monitoring tools)
 ### Existing Threat Models for Blockchain Technology
-### DeFi threat model based off MITRE ATT&CK
+### DeFi Threat Model based off MITRE ATT&CK framework
 ### Top Hacks related to Cryptocurrency
 ### What do you monitor for the different use cases? Cryptocurrency, DeFi, NFTs
 ### Wallet security (best practices)
-### Technical approach and deep dives
+### Technical approach and Deep Dives
 
 
 # Resources:
