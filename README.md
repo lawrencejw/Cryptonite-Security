@@ -1,7 +1,9 @@
 # Cryptonite-Security Website
 ## Blockchain Security and Threat Modeling blog in progress: [Cryptonite-Security](https://www.cryptonite-security.com/)
 
+
 # Upcoming weeks and months of blogging will cover
+
 
 ## Blockchain topics:
 
@@ -15,7 +17,8 @@
 ### Future 
 ### Make you’re own decisions
 
-## Threat Modeling and Blockchain Security
+
+# Threat Modeling and Blockchain Security
 
 ### Definition of Threat Modeling
 ### Scope and why it’s important to determine
