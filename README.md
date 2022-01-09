@@ -11,7 +11,7 @@
 ### Confusion around it’s existence
 ### Best way to explain it
 ### Is it needed? Why does it exist?
-### Is it a fad, bubble? Why the craze?
+### Is it a bubble? Why the craze?
 ### 2017 lessons learned
 ### Industry Direction and Growth
 ### Future 
