@@ -18,7 +18,7 @@
 ### Make you’re own decisions
 
 
-# Threat Modeling and Blockchain Security
+# Threat Modeling and Blockchain Security topics:
 
 ### Definition of Threat Modeling
 ### Scope and why it’s important to determine
