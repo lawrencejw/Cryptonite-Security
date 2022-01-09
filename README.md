@@ -2,10 +2,10 @@
 ## Blockchain Security and Threat Modeling blog in progress: [Cryptonite-Security](https://www.cryptonite-security.com/)
 
 
-# Upcoming weeks and months of blogging will cover
+# Upcoming weeks and months of blogging will cover:
 
 
-## Blockchain topics:
+## Blockchain topics
 
 ### Definition and how it’s used
 ### Confusion around it’s existence
@@ -18,7 +18,7 @@
 ### Make you’re own decisions
 
 
-# Threat Modeling and Blockchain Security topics:
+# Threat Modeling and Blockchain Security topics
 
 ### Definition of Threat Modeling
 ### Scope and why it’s important to determine
