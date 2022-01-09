@@ -34,7 +34,6 @@
 ### What tools are being used
 ### Vulnerability scanning
 ### Monitoring tools
-### Wallet security 
 ### Existing Threat Models for Blockchain Technology
 ### DeFi threat model based off MITRE ATT&CK
 ### Top Hacks related to Cryptocurrency
