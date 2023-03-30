@@ -2,7 +2,7 @@
 ## Blockchain Security and Threat Modeling blog in progress: [Cryptonite-Security](https://www.cryptonite-security.com/)
 
 
-# Upcoming weeks and months of blogging will cover:
+(Coming soon)
 
 
 ## Blockchain topics
