@@ -1,21 +1,11 @@
 # Cryptonite-Security Website
-## Blockchain Security and Threat Modeling blog in progress: [Cryptonite-Security](https://www.cryptonite-security.com/)
+## Blockchain, Cloud, and Threat Modeling blog in progress: [Cryptonite-Security](https://www.cryptonite-security.com/)
 
 
 (Coming soon)
 
 
 ## Blockchain topics
-
-### Definition and how it’s used
-### Confusion around it’s existence
-### Best way to explain it
-### Is it needed? Why does it exist?
-### Is it a bubble? Why the craze?
-### 2017 lessons learned
-### Industry Direction and Growth
-### Future 
-### Make you’re own decisions
 
 
 # Threat Modeling and Blockchain Security topics
